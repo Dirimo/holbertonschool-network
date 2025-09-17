@@ -1,3 +1,2 @@
 #!/usr/bin/env bash
-# This script uses netstat to display network connections
-netstat -lpn
+ss -lptu
