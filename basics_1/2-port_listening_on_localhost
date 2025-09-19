@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 # This script starts a netcat listener on port 98 on localhost
+
 nc -l 98
